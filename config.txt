@@ -1,0 +1,8 @@
+{"c2dictionary":true, "data":{
+	"facebookPage":"https://www.instagram.com/msssofware/?next=%2F",
+	"twitterPage":"",
+	"googlePage":"",
+	"rateUs":"https://play.google.com/store/apps/details?id=com.cebim.mssstudio&pcampaignid=web_share",
+	"moreGames":"https://play.google.com/store/apps/dev?id=4866049424183063198",
+	"shareMessage":"I just passed Level $level of FoxFury !"
+}}
